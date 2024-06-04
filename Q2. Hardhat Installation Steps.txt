@@ -1,0 +1,22 @@
+Q2. Demonstrate the steps involved in the process of
+installation and configuration of Hardhat Development
+Environment. 
+
+steps to install and configuration Hardhat Development Environment:
+1] Install Node.js in the system.
+2] Install PowerShell from the Microsoft store.
+3] Open a new terminal to create a new folder.
+4] To create a new project run the commands:
+      mkdir hardhat-project
+      cd hardhat-project
+5] to initialize project run the command:
+      npm init
+6] To install Hardhat Environment run the command: 
+      npm install --save-dev hardhat
+7] To initialize the project run the command:
+      npx hardhat init
+8] Then select create sample JavaScript project and hit enter
+9] Then to confirm hardhat is install run the command:
+      npx hardhat init
+10] Run the command:  code .   it will open the project in VS code where you can see the default hardhat.config.js file.
+11] when you run hardhat, it searches for the closest hardhat.config.js file. the empty hardhat.config.js file is enough to compile the contract.

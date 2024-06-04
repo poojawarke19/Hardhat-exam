@@ -1,0 +1,3 @@
+Q1. what is Hardhat?
+
+Hardhat is JavaScript Ethereum development environment for developing decentralized blockchain applications. Hardhat allows developer to compile, deploy and test the solidity contract on the local Ethereum Network.
